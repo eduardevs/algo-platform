@@ -1,0 +1,593 @@
+[
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "binarySearch",
+        "importPath": "search.binary_search",
+        "description": "search.binary_search",
+        "isExtraImport": true,
+        "detail": "search.binary_search",
+        "documentation": {}
+    },
+    {
+        "label": "linearSearch",
+        "importPath": "search.binary_search",
+        "description": "search.binary_search",
+        "isExtraImport": true,
+        "detail": "search.binary_search",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "plotly.express",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "plotly.express",
+        "description": "plotly.express",
+        "detail": "plotly.express",
+        "documentation": {}
+    },
+    {
+        "label": "plotly.graph_objects",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "plotly.graph_objects",
+        "description": "plotly.graph_objects",
+        "detail": "plotly.graph_objects",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "measure_execution_time",
+        "importPath": "utils.measure_execution_time",
+        "description": "utils.measure_execution_time",
+        "isExtraImport": true,
+        "detail": "utils.measure_execution_time",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "bubble_sort",
+        "importPath": "bubble_sort",
+        "description": "bubble_sort",
+        "isExtraImport": true,
+        "detail": "bubble_sort",
+        "documentation": {}
+    },
+    {
+        "label": "Template",
+        "importPath": "jinja2",
+        "description": "jinja2",
+        "isExtraImport": true,
+        "detail": "jinja2",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "bubble_sort",
+        "importPath": "algorithms.sort",
+        "description": "algorithms.sort",
+        "isExtraImport": true,
+        "detail": "algorithms.sort",
+        "documentation": {}
+    },
+    {
+        "label": "bubble_sort",
+        "importPath": "algorithms.sort",
+        "description": "algorithms.sort",
+        "isExtraImport": true,
+        "detail": "algorithms.sort",
+        "documentation": {}
+    },
+    {
+        "label": "MeasureService",
+        "importPath": "service.MeasureService",
+        "description": "service.MeasureService",
+        "isExtraImport": true,
+        "detail": "service.MeasureService",
+        "documentation": {}
+    },
+    {
+        "label": "MeasureService",
+        "importPath": "service.MeasureService",
+        "description": "service.MeasureService",
+        "isExtraImport": true,
+        "detail": "service.MeasureService",
+        "documentation": {}
+    },
+    {
+        "label": "GraphService",
+        "importPath": "service.GraphService",
+        "description": "service.GraphService",
+        "isExtraImport": true,
+        "detail": "service.GraphService",
+        "documentation": {}
+    },
+    {
+        "label": "GraphService",
+        "importPath": "service.GraphService",
+        "description": "service.GraphService",
+        "isExtraImport": true,
+        "detail": "service.GraphService",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "HTML",
+        "importPath": "weasyprint",
+        "description": "weasyprint",
+        "isExtraImport": true,
+        "detail": "weasyprint",
+        "documentation": {}
+    },
+    {
+        "label": "linearSearch",
+        "kind": 2,
+        "importPath": "algorithms.search.binary_search",
+        "description": "algorithms.search.binary_search",
+        "peekOfCode": "def linearSearch(array, needle):\n    \"\"\"linear search\n        complexity : O(n)\n    \"\"\"\n    for item in array:\n        if item == needle:\n            return True\n    return False\ndef binarySearch(array, needle):\n    \"\"\"binary search",
+        "detail": "algorithms.search.binary_search",
+        "documentation": {}
+    },
+    {
+        "label": "binarySearch",
+        "kind": 2,
+        "importPath": "algorithms.search.binary_search",
+        "description": "algorithms.search.binary_search",
+        "peekOfCode": "def binarySearch(array, needle):\n    \"\"\"binary search\n        complexity : O(log n)\n    \"\"\"\n    low = 0\n    high = len(array)\n    while low < high:\n        medium = math.floor(low + (high - low) / 2)\n        value = array[medium]\n        if value == needle:",
+        "detail": "algorithms.search.binary_search",
+        "documentation": {}
+    },
+    {
+        "label": "tab",
+        "kind": 5,
+        "importPath": "algorithms.algo_test",
+        "description": "algorithms.algo_test",
+        "peekOfCode": "tab = range(1, 10 + 1)\nvalue = 11\n\"\"\"linear search test\"\"\"\nlinear_search_test = linearSearch(tab, value)\nprint(f\"linear search result is: {linear_search_test}\")\n\"\"\"binary search test\n    \"\"\"\nbinary_search_test = binarySearch(tab, value)\nprint(f\"binary_search_test result : {binary_search_test}\")",
+        "detail": "algorithms.algo_test",
+        "documentation": {}
+    },
+    {
+        "label": "value",
+        "kind": 5,
+        "importPath": "algorithms.algo_test",
+        "description": "algorithms.algo_test",
+        "peekOfCode": "value = 11\n\"\"\"linear search test\"\"\"\nlinear_search_test = linearSearch(tab, value)\nprint(f\"linear search result is: {linear_search_test}\")\n\"\"\"binary search test\n    \"\"\"\nbinary_search_test = binarySearch(tab, value)\nprint(f\"binary_search_test result : {binary_search_test}\")",
+        "detail": "algorithms.algo_test",
+        "documentation": {}
+    },
+    {
+        "label": "linear_search_test",
+        "kind": 5,
+        "importPath": "algorithms.algo_test",
+        "description": "algorithms.algo_test",
+        "peekOfCode": "linear_search_test = linearSearch(tab, value)\nprint(f\"linear search result is: {linear_search_test}\")\n\"\"\"binary search test\n    \"\"\"\nbinary_search_test = binarySearch(tab, value)\nprint(f\"binary_search_test result : {binary_search_test}\")",
+        "detail": "algorithms.algo_test",
+        "documentation": {}
+    },
+    {
+        "label": "binary_search_test",
+        "kind": 5,
+        "importPath": "algorithms.algo_test",
+        "description": "algorithms.algo_test",
+        "peekOfCode": "binary_search_test = binarySearch(tab, value)\nprint(f\"binary_search_test result : {binary_search_test}\")",
+        "detail": "algorithms.algo_test",
+        "documentation": {}
+    },
+    {
+        "label": "bubble_sort",
+        "kind": 2,
+        "importPath": "algorithms.sort",
+        "description": "algorithms.sort",
+        "peekOfCode": "def bubble_sort(tab):\n    n = len(tab)\n    for i in range(n):\n        for j in range(0, n - 1 - i):\n            if tab[j] > tab[j + 1]:\n                tab[j], tab[j + 1] = tab[j + 1], tab[j]\n    return tab\n# if __name__ == \"__main__\":\n#     print(\"hello\")",
+        "detail": "algorithms.sort",
+        "documentation": {}
+    },
+    {
+        "label": "BigOComplexity",
+        "kind": 6,
+        "importPath": "models.agorithms_dict",
+        "description": "models.agorithms_dict",
+        "peekOfCode": "class BigOComplexity(Enum):\n    CONSTANT = 'O(1)',\n    LINEAR = 'O(N^2)',\n    QUADRATIC = 'O(N)',\n    LOGARITHMIC = 'O(logN)',\n    LOG_LINEAR = 'O(NlogN)',\n    CUBIC = 'O(n^3)',\n    EXPONENTIAL = 'O(2^n)',\n    FACTORIAL = 'O(n!)'\nalgorithms_dict = {",
+        "detail": "models.agorithms_dict",
+        "documentation": {}
+    },
+    {
+        "label": "algorithms_dict",
+        "kind": 5,
+        "importPath": "models.agorithms_dict",
+        "description": "models.agorithms_dict",
+        "peekOfCode": "algorithms_dict = {\n    'linear_search': BigOComplexity.LINEAR,\n    'binary_search': BigOComplexity.LOGARITHMIC,\n    'bubble_sort': BigOComplexity.QUADRATIC\n}\n\"\"\"\n  print(\"linear_search\", \"linear search\" in algorithms)\n\"\"\"",
+        "detail": "models.agorithms_dict",
+        "documentation": {}
+    },
+    {
+        "label": "GraphService",
+        "kind": 6,
+        "importPath": "service.GraphService",
+        "description": "service.GraphService",
+        "peekOfCode": "class GraphService:\n    def generate_graph_image(execution_time, input_sizes, algorithm_title, name_file):\n        # this is temporary for bubble sort quadratic big o\n        big_o_n2 = [0.00001 * (n**2) for n in input_sizes]\n        # Plot the results using Plotly\n        fig = go.Figure()\n        fig.add_trace(go.Scatter(x=input_sizes, y=execution_time, mode=\"lines+markers\", name=algorithm_title))\n        fig.add_trace(go.Scatter(x=input_sizes, y=big_o_n2, mode=\"lines\", name=\"O(n^2)\", line=dict(dash=\"dash\")))\n        fig.update_layout(\n            title=\"Execution Time of \" + algorithm_title.title(),",
+        "detail": "service.GraphService",
+        "documentation": {}
+    },
+    {
+        "label": "MeasureService",
+        "kind": 6,
+        "importPath": "service.MeasureService",
+        "description": "service.MeasureService",
+        "peekOfCode": "class MeasureService(BaseModel):\n    input_sizes: List[int]\n    algorithm: str\n    def measure_exec_time(algorithm, input_sizes):\n        execution_times = measure_execution_time(algorithm, input_sizes)\n        return execution_times",
+        "detail": "service.MeasureService",
+        "documentation": {}
+    },
+    {
+        "label": "PdfService",
+        "kind": 6,
+        "importPath": "service.PdfService",
+        "description": "service.PdfService",
+        "peekOfCode": "class PdfService:\n    pass",
+        "detail": "service.PdfService",
+        "documentation": {}
+    },
+    {
+        "label": "measure_execution_time",
+        "kind": 2,
+        "importPath": "utils.measure_execution_time",
+        "description": "utils.measure_execution_time",
+        "peekOfCode": "def measure_execution_time(func, sizes):\n    times = []\n    for size in sizes:\n        # Create a random array of the given size\n        arr = random.sample(range(size), size)\n        # Measure the time taken by the function\n        start_time = time.time()\n        func(arr)\n        end_time = time.time()\n        # Calculate the time difference",
+        "detail": "utils.measure_execution_time",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "venv.bin.activate_this",
+        "description": "venv.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": "venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "venv.bin.activate_this",
+        "description": "venv.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "venv.bin.activate_this",
+        "description": "venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": "venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "venv.bin.activate_this",
+        "description": "venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": "venv.bin.activate_this",
+        "description": "venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "venv.bin.activate_this",
+        "description": "venv.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "venv.bin.activate_this",
+        "description": "venv.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "venv.bin.activate_this",
+        "description": "venv.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "venv.bin.activate_this",
+        "description": "venv.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "measure_execution_time",
+        "kind": 2,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "def measure_execution_time(func, sizes):\n    times = []\n    for size in sizes:\n        # Create a random array of the given size\n        arr = random.sample(range(size), size)\n        # Measure the time taken by the function\n        start_time = time.time()\n        func(arr)\n        end_time = time.time()\n        # Calculate the time difference",
+        "detail": "example",
+        "documentation": {}
+    },
+    {
+        "label": "input_sizes",
+        "kind": 5,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "input_sizes = [10, 100, 500, 1000, 2000, 3000, 4000]\nexecution_times = measure_execution_time(bubble_sort, input_sizes)\n# Theoretical BIg O comparison(O(n^2))\nbig_o_n2 = [0.00001 * (n**2) for n in input_sizes]\n# Plot the results using Plotly\nfig = go.Figure()\nfig.add_trace(\n    go.Scatter(\n        x=input_sizes, y=execution_times, mode=\"lines+markers\", name=\"Bubble Sort Time\"\n    )",
+        "detail": "example",
+        "documentation": {}
+    },
+    {
+        "label": "execution_times",
+        "kind": 5,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "execution_times = measure_execution_time(bubble_sort, input_sizes)\n# Theoretical BIg O comparison(O(n^2))\nbig_o_n2 = [0.00001 * (n**2) for n in input_sizes]\n# Plot the results using Plotly\nfig = go.Figure()\nfig.add_trace(\n    go.Scatter(\n        x=input_sizes, y=execution_times, mode=\"lines+markers\", name=\"Bubble Sort Time\"\n    )\n)",
+        "detail": "example",
+        "documentation": {}
+    },
+    {
+        "label": "big_o_n2",
+        "kind": 5,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "big_o_n2 = [0.00001 * (n**2) for n in input_sizes]\n# Plot the results using Plotly\nfig = go.Figure()\nfig.add_trace(\n    go.Scatter(\n        x=input_sizes, y=execution_times, mode=\"lines+markers\", name=\"Bubble Sort Time\"\n    )\n)\nfig.add_trace(\n    go.Scatter(",
+        "detail": "example",
+        "documentation": {}
+    },
+    {
+        "label": "fig",
+        "kind": 5,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "fig = go.Figure()\nfig.add_trace(\n    go.Scatter(\n        x=input_sizes, y=execution_times, mode=\"lines+markers\", name=\"Bubble Sort Time\"\n    )\n)\nfig.add_trace(\n    go.Scatter(\n        x=input_sizes, y=big_o_n2, mode=\"lines\", name=\"O(n^2)\", line=dict(dash=\"dash\")\n    )",
+        "detail": "example",
+        "documentation": {}
+    },
+    {
+        "label": "output_html_path",
+        "kind": 5,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "output_html_path = os.path.join(os.getcwd(), \"gui\", \"output.html\")\ninput_template_path = os.path.join(os.getcwd(), \"gui\", \"index.html\")\npoltly_jinja_data = {\"fig\": fig.to_html(full_html=False)}\nwith open(output_html_path, \"w\", encoding=\"utf-8\") as output_file:\n    with open(input_template_path) as template_file:\n        j2_template = Template(template_file.read())\n        output_file.write(j2_template.render(poltly_jinja_data))\n# fig.show()",
+        "detail": "example",
+        "documentation": {}
+    },
+    {
+        "label": "input_template_path",
+        "kind": 5,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "input_template_path = os.path.join(os.getcwd(), \"gui\", \"index.html\")\npoltly_jinja_data = {\"fig\": fig.to_html(full_html=False)}\nwith open(output_html_path, \"w\", encoding=\"utf-8\") as output_file:\n    with open(input_template_path) as template_file:\n        j2_template = Template(template_file.read())\n        output_file.write(j2_template.render(poltly_jinja_data))\n# fig.show()",
+        "detail": "example",
+        "documentation": {}
+    },
+    {
+        "label": "poltly_jinja_data",
+        "kind": 5,
+        "importPath": "example",
+        "description": "example",
+        "peekOfCode": "poltly_jinja_data = {\"fig\": fig.to_html(full_html=False)}\nwith open(output_html_path, \"w\", encoding=\"utf-8\") as output_file:\n    with open(input_template_path) as template_file:\n        j2_template = Template(template_file.read())\n        output_file.write(j2_template.render(poltly_jinja_data))\n# fig.show()",
+        "detail": "example",
+        "documentation": {}
+    },
+    {
+        "label": "AlgorithmRequest",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class AlgorithmRequest(BaseModel):\n    input_sizes: List[int]\n    # algorithm: str # FIXME -> Add this in a subclass for name\n@app.post(\"/bubble_sort\")\ndef process_algo(request: AlgorithmRequest):\n    input_sizes = request.input_sizes\n    #algorithm_selection = request.algorithm\n    # match algorithm_selection:\n    #     case \"bubble_sort\":\n    # solve algo",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "process_algo",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def process_algo(request: AlgorithmRequest):\n    input_sizes = request.input_sizes\n    #algorithm_selection = request.algorithm\n    # match algorithm_selection:\n    #     case \"bubble_sort\":\n    # solve algo\n    algo_solution = bubble_sort(input_sizes)\n    # graph process\n    exec_time = MeasureService.measure_exec_time(bubble_sort, input_sizes)\n    try:",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = FastAPI()\nclass AlgorithmRequest(BaseModel):\n    input_sizes: List[int]\n    # algorithm: str # FIXME -> Add this in a subclass for name\n@app.post(\"/bubble_sort\")\ndef process_algo(request: AlgorithmRequest):\n    input_sizes = request.input_sizes\n    #algorithm_selection = request.algorithm\n    # match algorithm_selection:\n    #     case \"bubble_sort\":",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "input_sizes",
+        "kind": 5,
+        "importPath": "test-graph",
+        "description": "test-graph",
+        "peekOfCode": "input_sizes = [1,3,2]\nCURRENT_PATH = os.path.dirname(os.path.abspath(__file__))\nprint(CURRENT_PATH)\n# exec_time = MeasureService.measure_exec_time(bubble_sort, input_sizes)\n# print(exec_time)\n# graph_generated = GraphService.generate_graph(exec_time, input_sizes, 'algo test', 'algo_test.png')\nhtml_file = os.path.join(CURRENT_PATH, \"templates/template.html\")\ncss_file = os.path.join(CURRENT_PATH, \"templates/template.css\")\ndf_bar = pd.DataFrame({\n    'Moth'",
+        "detail": "test-graph",
+        "documentation": {}
+    },
+    {
+        "label": "CURRENT_PATH",
+        "kind": 5,
+        "importPath": "test-graph",
+        "description": "test-graph",
+        "peekOfCode": "CURRENT_PATH = os.path.dirname(os.path.abspath(__file__))\nprint(CURRENT_PATH)\n# exec_time = MeasureService.measure_exec_time(bubble_sort, input_sizes)\n# print(exec_time)\n# graph_generated = GraphService.generate_graph(exec_time, input_sizes, 'algo test', 'algo_test.png')\nhtml_file = os.path.join(CURRENT_PATH, \"templates/template.html\")\ncss_file = os.path.join(CURRENT_PATH, \"templates/template.css\")\ndf_bar = pd.DataFrame({\n    'Moth'\n})",
+        "detail": "test-graph",
+        "documentation": {}
+    },
+    {
+        "label": "html_file",
+        "kind": 5,
+        "importPath": "test-graph",
+        "description": "test-graph",
+        "peekOfCode": "html_file = os.path.join(CURRENT_PATH, \"templates/template.html\")\ncss_file = os.path.join(CURRENT_PATH, \"templates/template.css\")\ndf_bar = pd.DataFrame({\n    'Moth'\n})",
+        "detail": "test-graph",
+        "documentation": {}
+    },
+    {
+        "label": "css_file",
+        "kind": 5,
+        "importPath": "test-graph",
+        "description": "test-graph",
+        "peekOfCode": "css_file = os.path.join(CURRENT_PATH, \"templates/template.css\")\ndf_bar = pd.DataFrame({\n    'Moth'\n})",
+        "detail": "test-graph",
+        "documentation": {}
+    },
+    {
+        "label": "df_bar",
+        "kind": 5,
+        "importPath": "test-graph",
+        "description": "test-graph",
+        "peekOfCode": "df_bar = pd.DataFrame({\n    'Moth'\n})",
+        "detail": "test-graph",
+        "documentation": {}
+    }
+]

@@ -1,0 +1,3 @@
+
+class PdfService:
+    pass
