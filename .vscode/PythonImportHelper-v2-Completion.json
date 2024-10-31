@@ -116,6 +116,46 @@
         "documentation": {}
     },
     {
+        "label": "bubble_sort",
+        "importPath": "algorithms.sort",
+        "description": "algorithms.sort",
+        "isExtraImport": true,
+        "detail": "algorithms.sort",
+        "documentation": {}
+    },
+    {
+        "label": "bubble_sort",
+        "importPath": "algorithms.sort",
+        "description": "algorithms.sort",
+        "isExtraImport": true,
+        "detail": "algorithms.sort",
+        "documentation": {}
+    },
+    {
+        "label": "bubble_sort",
+        "importPath": "algorithms.sort",
+        "description": "algorithms.sort",
+        "isExtraImport": true,
+        "detail": "algorithms.sort",
+        "documentation": {}
+    },
+    {
+        "label": "binarySearch",
+        "importPath": "algorithms.search.binary_search",
+        "description": "algorithms.search.binary_search",
+        "isExtraImport": true,
+        "detail": "algorithms.search.binary_search",
+        "documentation": {}
+    },
+    {
+        "label": "isPalindrome",
+        "importPath": "katas.isPalindrome",
+        "description": "katas.isPalindrome",
+        "isExtraImport": true,
+        "detail": "katas.isPalindrome",
+        "documentation": {}
+    },
+    {
         "label": "time",
         "kind": 6,
         "isExtraImport": true,
@@ -184,19 +224,11 @@
         "documentation": {}
     },
     {
-        "label": "bubble_sort",
-        "importPath": "algorithms.sort",
-        "description": "algorithms.sort",
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
         "isExtraImport": true,
-        "detail": "algorithms.sort",
-        "documentation": {}
-    },
-    {
-        "label": "bubble_sort",
-        "importPath": "algorithms.sort",
-        "description": "algorithms.sort",
-        "isExtraImport": true,
-        "detail": "algorithms.sort",
+        "detail": "fastapi",
         "documentation": {}
     },
     {
@@ -262,44 +294,53 @@
         "kind": 2,
         "importPath": "algorithms.search.binary_search",
         "description": "algorithms.search.binary_search",
-        "peekOfCode": "def binarySearch(array, needle):\n    \"\"\"binary search\n        complexity : O(log n)\n    \"\"\"\n    low = 0\n    high = len(array)\n    while low < high:\n        medium = math.floor(low + (high - low) / 2)\n        value = array[medium]\n        if value == needle:",
+        "peekOfCode": "def binarySearch(array, needle):\n    \"\"\"binary search\n        complexity : O(log n)\n    \"\"\"\n    low = 0\n    high = len(array)\n    while low < high:\n        medium = math.floor(low + (high - low) / 2)\n        print(f\"half is {medium}\")\n        value = array[medium]",
+        "detail": "algorithms.search.binary_search",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "algorithms.search.binary_search",
+        "description": "algorithms.search.binary_search",
+        "peekOfCode": "def main():\n    arr = [*range(1,10, 1)]\n    print(arr, ',dsqofdqsd')\n    a_binary_search = binarySearch(arr, 2)\n    print(a_binary_search)\n    # print(a_binary_search)\n# if __name__ == 'main':\n#     main()\nmain()",
         "detail": "algorithms.search.binary_search",
         "documentation": {}
     },
     {
         "label": "tab",
         "kind": 5,
-        "importPath": "algorithms.algo_test",
-        "description": "algorithms.algo_test",
+        "importPath": "algorithms.algo-test-with-no-lib",
+        "description": "algorithms.algo-test-with-no-lib",
         "peekOfCode": "tab = range(1, 10 + 1)\nvalue = 11\n\"\"\"linear search test\"\"\"\nlinear_search_test = linearSearch(tab, value)\nprint(f\"linear search result is: {linear_search_test}\")\n\"\"\"binary search test\n    \"\"\"\nbinary_search_test = binarySearch(tab, value)\nprint(f\"binary_search_test result : {binary_search_test}\")",
-        "detail": "algorithms.algo_test",
+        "detail": "algorithms.algo-test-with-no-lib",
         "documentation": {}
     },
     {
         "label": "value",
         "kind": 5,
-        "importPath": "algorithms.algo_test",
-        "description": "algorithms.algo_test",
+        "importPath": "algorithms.algo-test-with-no-lib",
+        "description": "algorithms.algo-test-with-no-lib",
         "peekOfCode": "value = 11\n\"\"\"linear search test\"\"\"\nlinear_search_test = linearSearch(tab, value)\nprint(f\"linear search result is: {linear_search_test}\")\n\"\"\"binary search test\n    \"\"\"\nbinary_search_test = binarySearch(tab, value)\nprint(f\"binary_search_test result : {binary_search_test}\")",
-        "detail": "algorithms.algo_test",
+        "detail": "algorithms.algo-test-with-no-lib",
         "documentation": {}
     },
     {
         "label": "linear_search_test",
         "kind": 5,
-        "importPath": "algorithms.algo_test",
-        "description": "algorithms.algo_test",
+        "importPath": "algorithms.algo-test-with-no-lib",
+        "description": "algorithms.algo-test-with-no-lib",
         "peekOfCode": "linear_search_test = linearSearch(tab, value)\nprint(f\"linear search result is: {linear_search_test}\")\n\"\"\"binary search test\n    \"\"\"\nbinary_search_test = binarySearch(tab, value)\nprint(f\"binary_search_test result : {binary_search_test}\")",
-        "detail": "algorithms.algo_test",
+        "detail": "algorithms.algo-test-with-no-lib",
         "documentation": {}
     },
     {
         "label": "binary_search_test",
         "kind": 5,
-        "importPath": "algorithms.algo_test",
-        "description": "algorithms.algo_test",
+        "importPath": "algorithms.algo-test-with-no-lib",
+        "description": "algorithms.algo-test-with-no-lib",
         "peekOfCode": "binary_search_test = binarySearch(tab, value)\nprint(f\"binary_search_test result : {binary_search_test}\")",
-        "detail": "algorithms.algo_test",
+        "detail": "algorithms.algo-test-with-no-lib",
         "documentation": {}
     },
     {
@@ -312,11 +353,20 @@
         "documentation": {}
     },
     {
+        "label": "isPalindrome",
+        "kind": 2,
+        "importPath": "katas.isPalindrome",
+        "description": "katas.isPalindrome",
+        "peekOfCode": "def isPalindrome(us):\n    \"\"\"\n    :type s: str\n    :rtype: bool\n    \"\"\"\n    removeSpaces = us.replace(\" \",\"\")\n    removeCommas = removeSpaces.replace(\",\", \"\")\n    s = removeCommas.replace(\":\", \"\")\n    start = 0\n    end = len(s) - 1",
+        "detail": "katas.isPalindrome",
+        "documentation": {}
+    },
+    {
         "label": "BigOComplexity",
         "kind": 6,
         "importPath": "models.agorithms_dict",
         "description": "models.agorithms_dict",
-        "peekOfCode": "class BigOComplexity(Enum):\n    CONSTANT = 'O(1)',\n    LINEAR = 'O(N^2)',\n    QUADRATIC = 'O(N)',\n    LOGARITHMIC = 'O(logN)',\n    LOG_LINEAR = 'O(NlogN)',\n    CUBIC = 'O(n^3)',\n    EXPONENTIAL = 'O(2^n)',\n    FACTORIAL = 'O(n!)'\nalgorithms_dict = {",
+        "peekOfCode": "class BigOComplexity(Enum):\n    CONSTANT = 'O(1)',\n    LINEAR = 'O(N)',\n    QUADRATIC = 'O(N^2)',\n    LOGARITHMIC = 'O(logN)',\n    LOG_LINEAR = 'O(NlogN)',\n    CUBIC = 'O(n^3)',\n    EXPONENTIAL = 'O(2^n)',\n    FACTORIAL = 'O(n!)'\nalgorithms_dict = {",
         "detail": "models.agorithms_dict",
         "documentation": {}
     },
@@ -354,6 +404,33 @@
         "description": "service.PdfService",
         "peekOfCode": "class PdfService:\n    pass",
         "detail": "service.PdfService",
+        "documentation": {}
+    },
+    {
+        "label": "test_bubble_sort",
+        "kind": 2,
+        "importPath": "tests.tests_algo.test_algos",
+        "description": "tests.tests_algo.test_algos",
+        "peekOfCode": "def test_bubble_sort():\n    a_bubble_sort = bubble_sort([1,3,2])\n    assert a_bubble_sort == [1,2, 3]\ndef test_binary_search():\n    a_binary_search = binarySearch(range(1,10), 2)\n    assert a_binary_search == True",
+        "detail": "tests.tests_algo.test_algos",
+        "documentation": {}
+    },
+    {
+        "label": "test_binary_search",
+        "kind": 2,
+        "importPath": "tests.tests_algo.test_algos",
+        "description": "tests.tests_algo.test_algos",
+        "peekOfCode": "def test_binary_search():\n    a_binary_search = binarySearch(range(1,10), 2)\n    assert a_binary_search == True",
+        "detail": "tests.tests_algo.test_algos",
+        "documentation": {}
+    },
+    {
+        "label": "test_is_palindrome",
+        "kind": 2,
+        "importPath": "tests.tests_kata.test_katas_big_o_n",
+        "description": "tests.tests_kata.test_katas_big_o_n",
+        "peekOfCode": "def test_is_palindrome():\n    \"\"\"\n    technique: two pointers\n    \"\"\"\n    resultPalindrome = isPalindrome(\"A man, a plan, a canal: Panama\")\n    assert resultPalindrome == True",
+        "detail": "tests.tests_kata.test_katas_big_o_n",
         "documentation": {}
     },
     {
@@ -523,16 +600,7 @@
         "kind": 6,
         "importPath": "main",
         "description": "main",
-        "peekOfCode": "class AlgorithmRequest(BaseModel):\n    input_sizes: List[int]\n    # algorithm: str # FIXME -> Add this in a subclass for name\n@app.post(\"/bubble_sort\")\ndef process_algo(request: AlgorithmRequest):\n    input_sizes = request.input_sizes\n    #algorithm_selection = request.algorithm\n    # match algorithm_selection:\n    #     case \"bubble_sort\":\n    # solve algo",
-        "detail": "main",
-        "documentation": {}
-    },
-    {
-        "label": "process_algo",
-        "kind": 2,
-        "importPath": "main",
-        "description": "main",
-        "peekOfCode": "def process_algo(request: AlgorithmRequest):\n    input_sizes = request.input_sizes\n    #algorithm_selection = request.algorithm\n    # match algorithm_selection:\n    #     case \"bubble_sort\":\n    # solve algo\n    algo_solution = bubble_sort(input_sizes)\n    # graph process\n    exec_time = MeasureService.measure_exec_time(bubble_sort, input_sizes)\n    try:",
+        "peekOfCode": "class AlgorithmRequest(BaseModel):\n    input_sizes: List[int]\n    # algorithm: str # FIXME -> Add this in a subclass for name\n@router.post(\"/bubble_sort\")\nasync def process_algo(request: AlgorithmRequest):\n    input_sizes = request.input_sizes\n    # algorithm_selection = request.algorithm\n    # match algorithm_selection:\n    #     case \"bubble_sort\":\n    # solve algo",
         "detail": "main",
         "documentation": {}
     },
@@ -541,7 +609,16 @@
         "kind": 5,
         "importPath": "main",
         "description": "main",
-        "peekOfCode": "app = FastAPI()\nclass AlgorithmRequest(BaseModel):\n    input_sizes: List[int]\n    # algorithm: str # FIXME -> Add this in a subclass for name\n@app.post(\"/bubble_sort\")\ndef process_algo(request: AlgorithmRequest):\n    input_sizes = request.input_sizes\n    #algorithm_selection = request.algorithm\n    # match algorithm_selection:\n    #     case \"bubble_sort\":",
+        "peekOfCode": "app = FastAPI()\nrouter = APIRouter()\nclass AlgorithmRequest(BaseModel):\n    input_sizes: List[int]\n    # algorithm: str # FIXME -> Add this in a subclass for name\n@router.post(\"/bubble_sort\")\nasync def process_algo(request: AlgorithmRequest):\n    input_sizes = request.input_sizes\n    # algorithm_selection = request.algorithm\n    # match algorithm_selection:",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "router = APIRouter()\nclass AlgorithmRequest(BaseModel):\n    input_sizes: List[int]\n    # algorithm: str # FIXME -> Add this in a subclass for name\n@router.post(\"/bubble_sort\")\nasync def process_algo(request: AlgorithmRequest):\n    input_sizes = request.input_sizes\n    # algorithm_selection = request.algorithm\n    # match algorithm_selection:\n    #     case \"bubble_sort\":",
         "detail": "main",
         "documentation": {}
     },

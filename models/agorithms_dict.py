@@ -2,8 +2,8 @@ from enum import Enum
 
 class BigOComplexity(Enum):
     CONSTANT = 'O(1)',
-    LINEAR = 'O(N^2)',
-    QUADRATIC = 'O(N)',
+    LINEAR = 'O(N)',
+    QUADRATIC = 'O(N^2)',
     LOGARITHMIC = 'O(logN)',
     LOG_LINEAR = 'O(NlogN)',
     CUBIC = 'O(n^3)',

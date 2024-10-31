@@ -25,6 +25,8 @@ def binarySearch(array, needle):
 
     while low < high:
         medium = math.floor(low + (high - low) / 2)
+        
+        print(f"half is {medium}")
         value = array[medium]
 
         if value == needle:
@@ -34,3 +36,17 @@ def binarySearch(array, needle):
         else:
             low = medium + 1
     return False
+
+def main():
+    
+    arr = [*range(1,10, 1)]
+   
+    
+    print(arr, ',dsqofdqsd')
+    a_binary_search = binarySearch(arr, 2)
+    print(a_binary_search)
+    # print(a_binary_search)
+# if __name__ == 'main':
+#     main()
+
+main()

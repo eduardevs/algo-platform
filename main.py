@@ -1,5 +1,5 @@
 # on va écrire l'algo graph in a pdf
-from fastapi import FastAPI
+from fastapi import FastAPI, APIRouter
 from algorithms.sort import bubble_sort
 from pydantic import BaseModel
 from typing import List
@@ -7,6 +7,7 @@ from service.MeasureService import MeasureService
 from service.GraphService import GraphService
 
 app = FastAPI()
+router = APIRouter()
 
 
 class AlgorithmRequest(BaseModel):
@@ -14,10 +15,10 @@ class AlgorithmRequest(BaseModel):
     # algorithm: str # FIXME -> Add this in a subclass for name
 
 
-@app.post("/bubble_sort")
-def process_algo(request: AlgorithmRequest):
+@router.post("/bubble_sort")
+async def process_algo(request: AlgorithmRequest):
     input_sizes = request.input_sizes
-    #algorithm_selection = request.algorithm
+    # algorithm_selection = request.algorithm
 
     # match algorithm_selection:
     #     case "bubble_sort":
@@ -37,3 +38,6 @@ def process_algo(request: AlgorithmRequest):
         # case "linear_search":
 
     return {"response": exec_time, "algo_solution": algo_solution}
+
+
+app.include_router(router)
