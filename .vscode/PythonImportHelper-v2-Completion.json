@@ -357,7 +357,7 @@
         "kind": 2,
         "importPath": "katas.isPalindrome",
         "description": "katas.isPalindrome",
-        "peekOfCode": "def isPalindrome(us):\n    \"\"\"\n    :type s: str\n    :rtype: bool\n    \"\"\"\n    removeSpaces = us.replace(\" \",\"\")\n    removeCommas = removeSpaces.replace(\",\", \"\")\n    s = removeCommas.replace(\":\", \"\")\n    start = 0\n    end = len(s) - 1",
+        "peekOfCode": "def isPalindrome(us):\n    \"\"\"\n    :type s: str\n    :rtype: bool\n    DOC: two pointers implemented\n    \"\"\"\n    removeSpaces = us.replace(\" \",\"\")\n    removeCommas = removeSpaces.replace(\",\", \"\")\n    s = removeCommas.replace(\":\", \"\")\n    start = 0",
         "detail": "katas.isPalindrome",
         "documentation": {}
     },

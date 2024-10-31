@@ -2,6 +2,7 @@ def isPalindrome(us):
     """
     :type s: str
     :rtype: bool
+    DOC: two pointers implemented
     """
 
     removeSpaces = us.replace(" ","")
